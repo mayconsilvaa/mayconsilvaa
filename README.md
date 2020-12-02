@@ -8,4 +8,4 @@ I'm a Software Engineer to experience in JS and others technologies.
 - [Website](https://codingnow.com.br/) 💻 - Working on it.
 
 
-[![Maycon Silva Github Stats](https://github-readme-stats.vercel.app/api?username=mayconsilvaa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Maycon Silva Github Stats](https://github-readme-stats.vercel.app/api?username=mayconsilvaa&theme=dracula&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
