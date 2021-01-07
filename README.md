@@ -14,7 +14,7 @@
 ### About me
 I'm a Software Engineer to experience in JS and others technologies.
 
-- [Website](https://codingnow.com.br/) 💻 - Working on it.
+- [Website](https://codingnow.com.br/) :rocket 💻 - Working on it.
 
 
 [![Maycon Silva Github Stats](https://github-readme-stats.vercel.app/api?username=mayconsilvaa&count_private=true&theme=dracula&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
