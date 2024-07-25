@@ -25,7 +25,5 @@ I have knowledge and work with some frameworks and libs, including Express, Nest
 
 See you later. Thanks!
 
-- [Website](https://codingnow.com.br/)
-
 
 [![Maycon Silva Github Stats](https://github-readme-stats.vercel.app/api?username=mayconsilvaa&count_private=true&theme=dracula&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
