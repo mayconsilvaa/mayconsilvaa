@@ -19,7 +19,9 @@
 ### About me
 I'm a Software Engineer, graduated from the institution Promove.
 
-In terms of technologies, at the moment I'm full javascript in my entire stack. I have knowledge and work with some frameworks and libs, including Express, NestJs, React, NextJs and others.
+In terms of technologies, at the moment I'm full javascript in my entire stack. 
+
+I have knowledge and work with some frameworks and libs, including Express, NestJs, React, NextJs and others.
 
 See you later. Thanks!
 
